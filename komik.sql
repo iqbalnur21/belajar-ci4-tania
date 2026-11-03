@@ -21,4 +21,6 @@ INSERT INTO `komik` (`id`, `judul`, `slug`, `penulis`, `penerbit`, `sampul`, `si
 (1, 'Ao Haru Ride', 'ao-haru-ride', 'Io Sakisaka', 'Shueisha', 'aoharuride.jpg', 'Kisah cinta masa muda yang rumit namun manis antara Futaba dan cinta pertamanya saat SMP, Kou.', NOW(), NOW()),
 (2, 'Horimiya', 'horimiya', 'HERO & Daisuke Hagiwara', 'Square Enix', 'horimiya.jpg', 'Cerita romantis tentang dua siswa yang menyembunyikan kepribadian asli mereka di sekolah.', NOW(), NOW()),
 (3, 'Kimi ni Todoke', 'kimi-ni-todoke', 'Karuho Shiina', 'Shueisha', 'kiminitodoke.jpg', 'Kisah menyentuh tentang Sawako, gadis pemalu yang sering disalahpahami, saat ia belajar berteman dan jatuh cinta.', NOW(), NOW()),
-(4, 'Doraemon', 'doraemon', 'Fujiko F. Fujio', 'Shogakukan / Elex Media', 'doraemon.jpg', 'Kisah robot kucing dari abad ke-22 bernama Doraemon yang membantu Nobita Nobi dengan berbagai alat ajaib dari kantong ajaibnya.', NOW(), NOW());
+(4, 'Doraemon', 'doraemon', 'Fujiko F. Fujio', 'Shogakukan / Elex Media', 'doraemon.jpg', 'Kisah robot kucing dari abad ke-22 bernama Doraemon yang membantu Nobita Nobi dengan berbagai alat ajaib dari kantong ajaibnya.', NOW(), NOW()),
+(5, 'Naruto', 'naruto', 'Masashi Kishimoto', 'Shonen Jump', 'naruto.jpg', 'Kisah tentang Naruto Uzumaki, seorang ninja yatim piatu yang bercita-cita menjadi Hokage, pemimpin desanya.', NOW(), NOW()),
+(6, 'One Piece', 'one-piece', 'Eiichiro Oda', 'Shueisha', 'onepiece.jpg', 'Kisah petualangan Monkey D. Luffy dan krunya mengarungi Grand Line untuk menemukan harta karun One Piece.', NOW(), NOW());
